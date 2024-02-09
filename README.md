@@ -21,5 +21,5 @@ docker-compose up
 
 Пример возвращаемых данных:
 ```json
-{"place":{"title":"Москва","lat":55.75,"lon":37.62},"temperature":-14.0,"wind_speed":3.6,"pressure_mm":738
+{"place":{"title":"Москва","lat":55.75,"lon":37.62},"temperature":-14.0,"wind_speed":3.6,"pressure_mm":738}
 ```
